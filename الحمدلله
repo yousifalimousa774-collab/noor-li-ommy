@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>نور لأمي</title>
+<style>
+body{
+  margin:0;
+  font-family:Tahoma,Arial,sans-serif;
+  background:#f5f1e8;
+  color:#26352d;
+}
+header{
+  background:#315c4b;
+  color:white;
+  text-align:center;
+  padding:28px 15px;
+}
+h1{margin:0;font-size:32px}
+header p{margin:10px 0 0;font-size:17px}
+main{max-width:700px;margin:auto;padding:18px}
+.card{
+  background:white;
+  border-radius:18px;
+  padding:20px;
+  margin:15px 0;
+  box-shadow:0 3px 12px #0001;
+}
+h2{color:#315c4b}
+.surah{
+  background:#faf8f2;
+  border-right:5px solid #315c4b;
+  padding:15px;
+  margin:12px 0;
+  border-radius:12px;
+}
+.quran{
+  font-size:23px;
+  line-height:2.1;
+}
+.dua{
+  font-size:20px;
+  line-height:2;
+}
+footer{
+  text-align:center;
+  padding:25px;
+  color:#68756e;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>🌿 نور لأمي 🌿</h1>
+<p>صدقة جارية لروح أمي رحمها الله</p>
+</header>
+
+<main>
+
+<div class="card">
+<h2>📖 القرآن الكريم</h2>
+
+<div class="surah">
+<h3>سورة الفاتحة</h3>
+<div class="quran">
+بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ<br>
+الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ<br>
+الرَّحْمَٰنِ الرَّحِيمِ<br>
+مَالِكِ يَوْمِ الدِّينِ<br>
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ<br>
+اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ<br>
+صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
+</div>
+</div>
+
+<div class="surah">
+<h3>سورة الإخلاص</h3>
+<div class="quran">
+قُلْ هُوَ اللَّهُ أَحَدٌ<br>
+اللَّهُ الصَّمَدُ<br>
+لَمْ يَلِدْ وَلَمْ يُولَدْ<br>
+وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ
+</div>
+</div>
+
+<div class="surah">
+<h3>سورة الفلق</h3>
+<div class="quran">
+قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ<br>
+مِنْ شَرِّ مَا خَلَقَ<br>
+وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ<br>
+وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ<br>
+وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ
+</div>
+</div>
+
+<div class="surah">
+<h3>سورة الناس</h3>
+<div class="quran">
+قُلْ أَعُوذُ بِرَبِّ النَّاسِ<br>
+مَلِكِ النَّاسِ<br>
+إِلَٰهِ النَّاسِ<br>
+مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ<br>
+الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ<br>
+مِنَ الْجِنَّةِ وَالنَّاسِ
+</div>
+</div>
+
+<div class="surah">
+<h3>سورة الكوثر</h3>
+<div class="quran">
+إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ<br>
+فَصَلِّ لِرَبِّكَ وَانْحَرْ<br>
+إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ
+</div>
+</div>
+
+</div>
+
+<div class="card">
+<h2>🤲 دعاء لأمي</h2>
+<div class="dua">
+اللهم اغفر لأمي وارحمها، وعافها واعفُ عنها،
+وأكرم نُزلها، ووسّع مُدخلها،
+واجعل قبرها روضةً من رياض الجنة،
+واجمعني بها في جناتك يا أرحم الراحمين.
+</div>
+</div>
+
+<div class="card">
+<h2>📿 أذكار</h2>
+<div class="dua">
+سبحان الله وبحمده<br><br>
+سبحان الله والحمد لله ولا إله إلا الله والله أكبر<br><br>
+أستغفر الله وأتوب إليه<br><br>
+اللهم صل وسلم وبارك على نبينا محمد
+</div>
+</div>
+
+<div class="card">
+<h2>💚 صدقة جارية</h2>
+<p class="dua">
+اللهم اجعل ثواب هذا العمل نورًا ورحمةً
+لأمي، واجعله صدقةً جاريةً لها.
+</p>
+</div>
+
+</main>
+
+<footer>
+اللهم اجعل قبر أمي نورًا وطمأنينةً ورحمة 🤍
+</footer>
+
+</body>
+</html>
